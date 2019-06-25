@@ -4,7 +4,7 @@ We are a community aimed to help newcomers get into
 *Free/Libre Open Source Software* (FLOSS). 
 
 ## How to use?
-If you want to use [FLOSScoach](www.flosscoach.com) create an account and join our community! Contact us for help!
+If you want to use [FLOSScoach](http://www.flosscoach.com) create an account and join our community! Contact us for help!
 
 ## Build status
 ![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/flosscoach/flosscoach.svg)
@@ -22,8 +22,7 @@ FLOSScoach is build using:
 We recommend using [Rails-Style-Guide](https://github.com/rubocop-hq/rails-style-guide) as a coding style
 
 ## Contribute
-Want to contribute and not sure how to start? Here's our documentation for [contributions](https://gitlab.com/flosscoach/flosscoach/blob/master/contribute.md)
-
+Want to contribute and not sure how to start? Here's our documentation for [contributions](https://github.com/flosscoach/flosscoach/blob/master/contribute.md)contribute.md
 We are happy to welcome new contributors.
 
 
