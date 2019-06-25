@@ -16,7 +16,7 @@ FLOSScoach is build using:
 
 - [Ruby on Rails](https://github.com/rails/rails)
 - [PostgreSQL](https://www.postgresql.org/)
-- [GitLab CI](https://about.gitlab.com/product/continuous-integration/)
+- [GitLab CI](https://about.gitlab.com/product/continuous-integration/) -- Need to migrate to GitHub CI
 
 ## Code style
 We recommend using [Rails-Style-Guide](https://github.com/rubocop-hq/rails-style-guide) as a coding style
