@@ -6,8 +6,8 @@ We are a community aimed to help newcomers get into
 ## How to use?
 If you want to use [FLOSScoach](http://www.flosscoach.com) create an account and join our community! Contact us for help!
 
-## Build status
-![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/flosscoach/flosscoach.svg) -- **Migrate do GitHub
+## Build status [**Migrate do GitHub]
+![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/flosscoach/flosscoach.svg) 
 
 ## Features
 FLOSSCoach portal has individual project pages, foruns and messages where you can exchange relevant information about OSS with newcomers so they can start contributing
