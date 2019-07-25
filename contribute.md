@@ -95,7 +95,7 @@ Now that everything is ready, it's time to clone the repository of the project t
 ```bash
 cd ~
 # Cloning the development branchcan be done like so: git clone -b <branch> <remote_repo>
-git clone -b development https://gitlab.com/flosscoach/flosscoach.git
+git clone -b development https://github.com/flosscoach/flosscoach.git
 #Navigate to the newly created repository clone:
 cd flosscoach
 ```
@@ -109,7 +109,7 @@ Finally done!! See your local server running on [localhost:8000](http://localhos
 ## Step 6 - Merging your contributions
 After you have finished writting some code these are the steps for adding your contribution to FLOSScoach:
 
-### Step 6.1 - Add changes to GitLab
+### Step 6.1 - Add changes to GitHub
 ```bash
 #cd to the project directory
 cd flossccoach
@@ -117,12 +117,12 @@ cd flossccoach
 git add .
 #Create a new commit
 git commit -m "Insert commit message here"
-#And then send it to the Gitlab repository 
+#And then send it to the GitHub repository 
 git push origin development
-#You will be prompted to insert your Gitlab login credentials then
+#You will be prompted to insert your GitHub login credentials then
 ```
 ### Step 6.2 Merging changes
-To merge the changes you've done on development to master branch you can follow the excelent instructions from [Gitlab official docs](https://docs.gitlab.com/ee/gitlab-basics/add-merge-request.html).
+To merge the changes you've done on development to master branch you can follow the excelent instructions from [GitHub official docs](https://help.github.com/en/articles/creating-a-pull-request-template-for-your-repository).
 It's quite simple to be done.
 
 
