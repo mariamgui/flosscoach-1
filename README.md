@@ -3,6 +3,8 @@
 We are a community aimed to help newcomers get into
 *Free/Libre Open Source Software* (FLOSS). 
 
+This is my addition
+
 ## How to use?
 If you want to use [FLOSScoach](http://www.flosscoach.com) create an account and join our community! Contact us for help!
 
