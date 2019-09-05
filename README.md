@@ -1,5 +1,4 @@
 ![logo](https://github.com/flosscoach/flosscoach/raw/master/app/assets/images/flosscoach-logo.png) 
-THIS IS A CHANGE FOR INF502
 
 # FLOSSCoach
 We are a community aimed to help newcomers get into
