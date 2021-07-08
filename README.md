@@ -1,4 +1,5 @@
 ![logo](https://github.com/flosscoach/flosscoach/raw/master/app/assets/images/flosscoach-logo.png) 
+
 # FLOSSCoach
 We are a community aimed to help newcomers get into
 *Free/Libre Open Source Software* (FLOSS). 
